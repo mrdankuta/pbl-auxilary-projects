@@ -59,6 +59,6 @@
     ```
     ./onboarding-users.sh
     ```
-    ![Onboarding Users](./001-onboarding-users.gif)
+    ![Onboarding Users](./images/001-onboarding-users.gif)
 - Test operation by connecting to server via ssh with any onboarded user
-    ![Testing Onboarded Users](./002-testing-onboarded-users.gif)
+    ![Testing Onboarded Users](./images/002-testing-onboarded-users.gif)
